@@ -3,7 +3,7 @@ description: GeoFlutterFire is an open-source library that allows you to store a
 version: 3.0.4
 
 environment:
-  sdk: ">=3.2.3 <4.0.0"
+  sdk: ^3.4.0
   # flutter: ">=1.12.0"
 
 dependencies:
